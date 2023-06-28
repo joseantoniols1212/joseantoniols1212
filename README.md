@@ -1,5 +1,5 @@
 - 👋 Hi, I’m José Antonio Luque Salguero, student of Mathematics and Computer Science at UMA.
-- 👀 I’m interested in Artificial Intelligence.
+- 👀 I’m interested in AI, IoT, big data and pure math.
 - 📫 How to reach me:
    - Email: joseantonioluquesalguero1212@gmail.com
    - Linkedin: https://www.linkedin.com/in/joseantonioluque/
