@@ -1,8 +1,5 @@
 - 👋 Hi, I’m José Antonio Luque Salguero. I'm a 24-year-old Computer Engineer and Mathematician with a Master’s degree in Mechatronics Engineering.
 - 👀 I’m interested in Software Development and pure math.
-- 📫 How to reach me:
-   - Email: joseantonioluquesalguero1212@gmail.com
-   - Linkedin: https://www.linkedin.com/in/joseantonioluque/
 
 <!---
 joseantoniols1212/joseantoniols1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
